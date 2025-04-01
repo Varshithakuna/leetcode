@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Varshithakuna/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0728-self-dividing-numbers](https://github.com/Varshithakuna/leetcode/tree/master/0728-self-dividing-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
