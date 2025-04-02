@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Varshithakuna/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Varshithakuna/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0822-unique-morse-code-words](https://github.com/Varshithakuna/leetcode/tree/master/0822-unique-morse-code-words) |
+| [0890-lemonade-change](https://github.com/Varshithakuna/leetcode/tree/master/0890-lemonade-change) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Varshithakuna/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Varshithakuna/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/Varshithakuna/leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Varshithakuna/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/Varshithakuna/leetcode/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
