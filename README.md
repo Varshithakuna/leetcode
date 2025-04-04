@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Varshithakuna/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Varshithakuna/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Varshithakuna/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0822-unique-morse-code-words](https://github.com/Varshithakuna/leetcode/tree/master/0822-unique-morse-code-words) |
 | [0890-lemonade-change](https://github.com/Varshithakuna/leetcode/tree/master/0890-lemonade-change) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Varshithakuna/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Varshithakuna/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Varshithakuna/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Prefix Sum
 |  |
