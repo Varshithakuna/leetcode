@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Varshithakuna/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/Varshithakuna/leetcode/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/Varshithakuna/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Varshithakuna/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0822-unique-morse-code-words](https://github.com/Varshithakuna/leetcode/tree/master/0822-unique-morse-code-words) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Varshithakuna/leetcode/tree/master/0043-multiply-strings) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Varshithakuna/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0728-self-dividing-numbers](https://github.com/Varshithakuna/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Varshithakuna/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/Varshithakuna/leetcode/tree/master/0890-lemonade-change) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Varshithakuna/leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
