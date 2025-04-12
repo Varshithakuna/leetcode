@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Varshithakuna/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Varshithakuna/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Varshithakuna/leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Varshithakuna/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Varshithakuna/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Varshithakuna/leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 ## Counting
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Varshithakuna/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Varshithakuna/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Varshithakuna/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Varshithakuna/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Varshithakuna/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Varshithakuna/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Varshithakuna/leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Varshithakuna/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Varshithakuna/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/Varshithakuna/leetcode/tree/master/1894-merge-strings-alternately) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Varshithakuna/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String Matching
 |  |
 | ------- |
