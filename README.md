@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Varshithakuna/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Varshithakuna/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Varshithakuna/leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2365-percentage-of-letter-in-string](https://github.com/Varshithakuna/leetcode/tree/master/2365-percentage-of-letter-in-string) |
 ## Counting
 |  |
 | ------- |
