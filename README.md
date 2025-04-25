@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Varshithakuna/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Varshithakuna/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/Varshithakuna/leetcode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Varshithakuna/leetcode/tree/master/0682-baseball-game) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Varshithakuna/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0822-unique-morse-code-words](https://github.com/Varshithakuna/leetcode/tree/master/0822-unique-morse-code-words) |
 | [0890-lemonade-change](https://github.com/Varshithakuna/leetcode/tree/master/0890-lemonade-change) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Varshithakuna/leetcode/tree/master/0043-multiply-strings) |
+| [0682-baseball-game](https://github.com/Varshithakuna/leetcode/tree/master/0682-baseball-game) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Varshithakuna/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Dynamic Programming
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Varshithakuna/leetcode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Varshithakuna/leetcode/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
