@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/Varshithakuna/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Varshithakuna/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Varshithakuna/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Varshithakuna/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Varshithakuna/leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Varshithakuna/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/Varshithakuna/leetcode/tree/master/2502-sort-the-people) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Varshithakuna/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Varshithakuna/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Varshithakuna/leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Varshithakuna/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Varshithakuna/leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Varshithakuna/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/Varshithakuna/leetcode/tree/master/2235-capitalize-the-title) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Varshithakuna/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Varshithakuna/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Varshithakuna/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Varshithakuna/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Varshithakuna/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2427-first-letter-to-appear-twice](https://github.com/Varshithakuna/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Varshithakuna/leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
