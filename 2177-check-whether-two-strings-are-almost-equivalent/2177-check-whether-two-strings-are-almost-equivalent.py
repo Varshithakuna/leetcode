@@ -29,7 +29,7 @@ class Solution:
         
         print(len(s))
         print(ans)
-        if ans==len(s):
+        if ans2 and ans>0:
             return True
         else:
             return False
