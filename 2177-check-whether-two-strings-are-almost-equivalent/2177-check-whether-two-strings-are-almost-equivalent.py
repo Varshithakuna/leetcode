@@ -26,9 +26,6 @@ class Solution:
                 ans2=ans2+1
             else:
                 return False
-        
-        print(len(s))
-        print(ans)
         if ans2 and ans>0:
             return True
         else:
