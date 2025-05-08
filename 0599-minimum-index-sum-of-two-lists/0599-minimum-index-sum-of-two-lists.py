@@ -14,9 +14,6 @@ class Solution:
         for i in p:
             if i[1]==h:
                 q.append(i[0])
-
-
-
         return q
 
 
