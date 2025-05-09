@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Varshithakuna/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1894-merge-strings-alternately](https://github.com/Varshithakuna/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Varshithakuna/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Varshithakuna/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Varshithakuna/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Varshithakuna/leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Varshithakuna/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Varshithakuna/leetcode/tree/master/0043-multiply-strings) |
 | [0682-baseball-game](https://github.com/Varshithakuna/leetcode/tree/master/0682-baseball-game) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Varshithakuna/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Varshithakuna/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Dynamic Programming
 |  |
