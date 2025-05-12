@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/Varshithakuna/leetcode/tree/master/2580-circular-sentence) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Varshithakuna/leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Varshithakuna/leetcode/tree/master/2594-count-pairs-of-similar-strings) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Varshithakuna/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Counting
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/Varshithakuna/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Varshithakuna/leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Varshithakuna/leetcode/tree/master/2594-count-pairs-of-similar-strings) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Varshithakuna/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Array
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Varshithakuna/leetcode/tree/master/2502-sort-the-people) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Varshithakuna/leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Varshithakuna/leetcode/tree/master/2594-count-pairs-of-similar-strings) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Varshithakuna/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Varshithakuna/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Varshithakuna/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Varshithakuna/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
