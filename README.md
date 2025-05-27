@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Varshithakuna/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/Varshithakuna/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2881-split-strings-by-separator](https://github.com/Varshithakuna/leetcode/tree/master/2881-split-strings-by-separator) |
+| [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Varshithakuna/leetcode/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3194-find-words-containing-character](https://github.com/Varshithakuna/leetcode/tree/master/3194-find-words-containing-character) |
 ## Counting
 |  |
