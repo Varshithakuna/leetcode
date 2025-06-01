@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/Varshithakuna/leetcode/tree/master/0953-reverse-only-letters) |
 | [1894-merge-strings-alternately](https://github.com/Varshithakuna/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1970-sorting-the-sentence](https://github.com/Varshithakuna/leetcode/tree/master/1970-sorting-the-sentence) |
+| [2032-largest-odd-number-in-string](https://github.com/Varshithakuna/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Varshithakuna/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Varshithakuna/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Varshithakuna/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Varshithakuna/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/Varshithakuna/leetcode/tree/master/1013-fibonacci-number) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Varshithakuna/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2032-largest-odd-number-in-string](https://github.com/Varshithakuna/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2998-count-symmetric-integers](https://github.com/Varshithakuna/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Varshithakuna/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Bit Manipulation
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/Varshithakuna/leetcode/tree/master/0890-lemonade-change) |
+| [2032-largest-odd-number-in-string](https://github.com/Varshithakuna/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Varshithakuna/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Simulation
 |  |
