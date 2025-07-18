@@ -1,8 +1,8 @@
 class Solution:
     def removeDuplicates(self, s: str) -> str:
-        ans=[s[0]]
+        ans=[]
         right = len(s)
-        for i in range(1,len(s)):
+        for i in range(len(s)):
             if len(ans)==0:
                 ans.append(s[i])
             elif s[i]!= ans[-1]:
