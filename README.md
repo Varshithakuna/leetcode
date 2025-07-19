@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Varshithakuna/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Varshithakuna/leetcode/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Varshithakuna/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/Varshithakuna/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Varshithakuna/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0812-rotate-string](https://github.com/Varshithakuna/leetcode/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/Varshithakuna/leetcode/tree/master/0822-unique-morse-code-words) |
