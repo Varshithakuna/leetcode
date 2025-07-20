@@ -6,6 +6,8 @@ class Solution:
         ans=[]
         fin=[]
         d=[]
+        if len(words)==1:
+            return w
         for j in range(1,len(words)):
             ans.append(words[j])
         for i in w:
@@ -31,7 +33,4 @@ class Solution:
         for i in k2:
             for j in range(i[1]):
                 fin.append(i[0])
-        if len(words)>1:
-            return fin
-        else:
-            return w
+        return fin
