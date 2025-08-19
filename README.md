@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Varshithakuna/leetcode/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3194-find-words-containing-character](https://github.com/Varshithakuna/leetcode/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/Varshithakuna/leetcode/tree/master/3396-valid-word) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Varshithakuna/leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Varshithakuna/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Varshithakuna/leetcode/tree/master/0682-baseball-game) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Varshithakuna/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Varshithakuna/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Varshithakuna/leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3790-fruits-into-baskets-ii](https://github.com/Varshithakuna/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
