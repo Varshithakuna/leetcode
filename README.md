@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2881-split-strings-by-separator](https://github.com/Varshithakuna/leetcode/tree/master/2881-split-strings-by-separator) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Varshithakuna/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/Varshithakuna/leetcode/tree/master/3194-find-words-containing-character) |
+| [3397-find-the-integer-added-to-array-i](https://github.com/Varshithakuna/leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Varshithakuna/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Varshithakuna/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Varshithakuna/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
