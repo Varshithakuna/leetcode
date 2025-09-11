@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/Varshithakuna/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2825-minimize-string-length](https://github.com/Varshithakuna/leetcode/tree/master/2825-minimize-string-length) |
 | [2881-split-strings-by-separator](https://github.com/Varshithakuna/leetcode/tree/master/2881-split-strings-by-separator) |
+| [2887-sort-vowels-in-a-string](https://github.com/Varshithakuna/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Varshithakuna/leetcode/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3194-find-words-containing-character](https://github.com/Varshithakuna/leetcode/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/Varshithakuna/leetcode/tree/master/3396-valid-word) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Varshithakuna/leetcode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Varshithakuna/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Varshithakuna/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2887-sort-vowels-in-a-string](https://github.com/Varshithakuna/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3778-transform-array-by-parity](https://github.com/Varshithakuna/leetcode/tree/master/3778-transform-array-by-parity) |
 | [3859-maximum-product-of-two-digits](https://github.com/Varshithakuna/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Prefix Sum
