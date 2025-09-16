@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/Varshithakuna/leetcode/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Varshithakuna/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1044-find-common-characters](https://github.com/Varshithakuna/leetcode/tree/master/1044-find-common-characters) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Varshithakuna/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/Varshithakuna/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Varshithakuna/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1547-destination-city](https://github.com/Varshithakuna/leetcode/tree/master/1547-destination-city) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/Varshithakuna/leetcode/tree/master/0953-reverse-only-letters) |
 | [1044-find-common-characters](https://github.com/Varshithakuna/leetcode/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Varshithakuna/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Varshithakuna/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Varshithakuna/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Varshithakuna/leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Varshithakuna/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
