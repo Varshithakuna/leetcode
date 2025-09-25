@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/Varshithakuna/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1547-destination-city](https://github.com/Varshithakuna/leetcode/tree/master/1547-destination-city) |
 | [1752-arithmetic-subarrays](https://github.com/Varshithakuna/leetcode/tree/master/1752-arithmetic-subarrays) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Varshithakuna/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Varshithakuna/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Varshithakuna/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Varshithakuna/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/Varshithakuna/leetcode/tree/master/1547-destination-city) |
 | [1651-shuffle-string](https://github.com/Varshithakuna/leetcode/tree/master/1651-shuffle-string) |
 | [1894-merge-strings-alternately](https://github.com/Varshithakuna/leetcode/tree/master/1894-merge-strings-alternately) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Varshithakuna/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/Varshithakuna/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/Varshithakuna/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Varshithakuna/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
