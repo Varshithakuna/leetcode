@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Varshithakuna/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/Varshithakuna/leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Varshithakuna/leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2470-removing-stars-from-a-string](https://github.com/Varshithakuna/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/Varshithakuna/leetcode/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Varshithakuna/leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2547-odd-string-difference](https://github.com/Varshithakuna/leetcode/tree/master/2547-odd-string-difference) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Varshithakuna/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Varshithakuna/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Varshithakuna/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2470-removing-stars-from-a-string](https://github.com/Varshithakuna/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Varshithakuna/leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3790-fruits-into-baskets-ii](https://github.com/Varshithakuna/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/Varshithakuna/leetcode/tree/master/3811-reverse-degree-of-a-string) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Varshithakuna/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Varshithakuna/leetcode/tree/master/0682-baseball-game) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Varshithakuna/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2470-removing-stars-from-a-string](https://github.com/Varshithakuna/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
