@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/Varshithakuna/leetcode/tree/master/3396-valid-word) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Varshithakuna/leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3462-vowels-game-in-a-string](https://github.com/Varshithakuna/leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3811-reverse-degree-of-a-string](https://github.com/Varshithakuna/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Varshithakuna/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Varshithakuna/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Varshithakuna/leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3790-fruits-into-baskets-ii](https://github.com/Varshithakuna/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3811-reverse-degree-of-a-string](https://github.com/Varshithakuna/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
