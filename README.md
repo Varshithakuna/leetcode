@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Varshithakuna/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Varshithakuna/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Varshithakuna/leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Varshithakuna/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1547-destination-city](https://github.com/Varshithakuna/leetcode/tree/master/1547-destination-city) |
 | [1752-arithmetic-subarrays](https://github.com/Varshithakuna/leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Varshithakuna/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Varshithakuna/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Varshithakuna/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Varshithakuna/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Varshithakuna/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Varshithakuna/leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Varshithakuna/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1542-consecutive-characters](https://github.com/Varshithakuna/leetcode/tree/master/1542-consecutive-characters) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0837-most-common-word](https://github.com/Varshithakuna/leetcode/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Varshithakuna/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Varshithakuna/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Varshithakuna/leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Varshithakuna/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Varshithakuna/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
