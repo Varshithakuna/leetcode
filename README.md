@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/Varshithakuna/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Varshithakuna/leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Varshithakuna/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Varshithakuna/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Varshithakuna/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Varshithakuna/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Varshithakuna/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
