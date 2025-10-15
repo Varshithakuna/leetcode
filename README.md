@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/Varshithakuna/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/Varshithakuna/leetcode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Varshithakuna/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Varshithakuna/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Varshithakuna/leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2547-odd-string-difference](https://github.com/Varshithakuna/leetcode/tree/master/2547-odd-string-difference) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Varshithakuna/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Varshithakuna/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Varshithakuna/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2427-first-letter-to-appear-twice](https://github.com/Varshithakuna/leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Varshithakuna/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Varshithakuna/leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Varshithakuna/leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Varshithakuna/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-count-prefixes-of-a-given-string](https://github.com/Varshithakuna/leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2502-sort-the-people](https://github.com/Varshithakuna/leetcode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Varshithakuna/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Varshithakuna/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2547-odd-string-difference](https://github.com/Varshithakuna/leetcode/tree/master/2547-odd-string-difference) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Varshithakuna/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Varshithakuna/leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/Varshithakuna/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Varshithakuna/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2481-strictly-palindromic-number](https://github.com/Varshithakuna/leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Varshithakuna/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Varshithakuna/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2998-count-symmetric-integers](https://github.com/Varshithakuna/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3462-vowels-game-in-a-string](https://github.com/Varshithakuna/leetcode/tree/master/3462-vowels-game-in-a-string) |
