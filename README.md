@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Varshithakuna/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-arithmetic-subarrays](https://github.com/Varshithakuna/leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/Varshithakuna/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Varshithakuna/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Varshithakuna/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Varshithakuna/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Varshithakuna/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Varshithakuna/leetcode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Varshithakuna/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Varshithakuna/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Varshithakuna/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Varshithakuna/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Varshithakuna/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2481-strictly-palindromic-number](https://github.com/Varshithakuna/leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Varshithakuna/leetcode/tree/master/0861-flipping-an-image) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Varshithakuna/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Varshithakuna/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Varshithakuna/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2427-first-letter-to-appear-twice](https://github.com/Varshithakuna/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Varshithakuna/leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Varshithakuna/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/Varshithakuna/leetcode/tree/master/1656-count-good-triplets) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Varshithakuna/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Varshithakuna/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2998-count-symmetric-integers](https://github.com/Varshithakuna/leetcode/tree/master/2998-count-symmetric-integers) |
 ## Divide and Conquer
@@ -437,4 +441,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Varshithakuna/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Varshithakuna/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Varshithakuna/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
