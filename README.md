@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-find-common-elements-between-two-arrays](https://github.com/Varshithakuna/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Varshithakuna/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Varshithakuna/leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/Varshithakuna/leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Varshithakuna/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Varshithakuna/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Varshithakuna/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Varshithakuna/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1833-find-the-highest-altitude](https://github.com/Varshithakuna/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Varshithakuna/leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/Varshithakuna/leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Math
 |  |
 | ------- |
