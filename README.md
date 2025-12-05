@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Varshithakuna/leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Varshithakuna/leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Varshithakuna/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Varshithakuna/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2727-number-of-senior-citizens](https://github.com/Varshithakuna/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2825-minimize-string-length](https://github.com/Varshithakuna/leetcode/tree/master/2825-minimize-string-length) |
 | [2881-split-strings-by-separator](https://github.com/Varshithakuna/leetcode/tree/master/2881-split-strings-by-separator) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Varshithakuna/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/Varshithakuna/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Varshithakuna/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Varshithakuna/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 ## String Matching
 |  |
 | ------- |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Varshithakuna/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Varshithakuna/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Varshithakuna/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Varshithakuna/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Simulation
 |  |
 | ------- |
