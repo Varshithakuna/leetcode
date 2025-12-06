@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Varshithakuna/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Varshithakuna/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3731-find-missing-elements](https://github.com/Varshithakuna/leetcode/tree/master/3731-find-missing-elements) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Varshithakuna/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Varshithakuna/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4008-restore-finishing-order](https://github.com/Varshithakuna/leetcode/tree/master/4008-restore-finishing-order) |
 ## String
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/Varshithakuna/leetcode/tree/master/3396-valid-word) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Varshithakuna/leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3462-vowels-game-in-a-string](https://github.com/Varshithakuna/leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Varshithakuna/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3811-reverse-degree-of-a-string](https://github.com/Varshithakuna/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Varshithakuna/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
