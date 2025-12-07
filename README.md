@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Varshithakuna/leetcode/tree/master/1656-count-good-triplets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Varshithakuna/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-arithmetic-subarrays](https://github.com/Varshithakuna/leetcode/tree/master/1752-arithmetic-subarrays) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Varshithakuna/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-find-the-highest-altitude](https://github.com/Varshithakuna/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Varshithakuna/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Varshithakuna/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Varshithakuna/leetcode/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Varshithakuna/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Varshithakuna/leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Varshithakuna/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Varshithakuna/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Varshithakuna/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Varshithakuna/leetcode/tree/master/2032-largest-odd-number-in-string) |
