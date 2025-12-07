@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Varshithakuna/leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3462-vowels-game-in-a-string](https://github.com/Varshithakuna/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Varshithakuna/leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Varshithakuna/leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Varshithakuna/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3811-reverse-degree-of-a-string](https://github.com/Varshithakuna/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Varshithakuna/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/Varshithakuna/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Varshithakuna/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Varshithakuna/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Varshithakuna/leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## String Matching
 |  |
 | ------- |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/Varshithakuna/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Varshithakuna/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Varshithakuna/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Varshithakuna/leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Varshithakuna/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/Varshithakuna/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Bit Manipulation
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2594-count-pairs-of-similar-strings](https://github.com/Varshithakuna/leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Varshithakuna/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Varshithakuna/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Varshithakuna/leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Greedy
 |  |
 | ------- |
