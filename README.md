@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Varshithakuna/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Varshithakuna/leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Varshithakuna/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Varshithakuna/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Varshithakuna/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/Varshithakuna/leetcode/tree/master/3731-find-missing-elements) |
 | [3778-transform-array-by-parity](https://github.com/Varshithakuna/leetcode/tree/master/3778-transform-array-by-parity) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2594-count-pairs-of-similar-strings](https://github.com/Varshithakuna/leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Varshithakuna/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Varshithakuna/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Varshithakuna/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Varshithakuna/leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Greedy
 |  |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Varshithakuna/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2470-removing-stars-from-a-string](https://github.com/Varshithakuna/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Varshithakuna/leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Varshithakuna/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Varshithakuna/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3790-fruits-into-baskets-ii](https://github.com/Varshithakuna/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/Varshithakuna/leetcode/tree/master/3811-reverse-degree-of-a-string) |
