@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Varshithakuna/leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Varshithakuna/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Varshithakuna/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Varshithakuna/leetcode/tree/master/0078-subsets) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Varshithakuna/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Varshithakuna/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Varshithakuna/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Varshithakuna/leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Varshithakuna/leetcode/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Varshithakuna/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Varshithakuna/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Varshithakuna/leetcode/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Varshithakuna/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
