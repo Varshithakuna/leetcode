@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Varshithakuna/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1752-arithmetic-subarrays](https://github.com/Varshithakuna/leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Varshithakuna/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2032-two-out-of-three](https://github.com/Varshithakuna/leetcode/tree/master/2032-two-out-of-three) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Varshithakuna/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Varshithakuna/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Varshithakuna/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Varshithakuna/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Varshithakuna/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Varshithakuna/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2032-two-out-of-three](https://github.com/Varshithakuna/leetcode/tree/master/2032-two-out-of-three) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Varshithakuna/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Varshithakuna/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Varshithakuna/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/Varshithakuna/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Varshithakuna/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Varshithakuna/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2032-two-out-of-three](https://github.com/Varshithakuna/leetcode/tree/master/2032-two-out-of-three) |
 | [2427-first-letter-to-appear-twice](https://github.com/Varshithakuna/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Varshithakuna/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Varshithakuna/leetcode/tree/master/2594-count-pairs-of-similar-strings) |
