@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Varshithakuna/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1547-destination-city](https://github.com/Varshithakuna/leetcode/tree/master/1547-destination-city) |
 | [1651-shuffle-string](https://github.com/Varshithakuna/leetcode/tree/master/1651-shuffle-string) |
+| [1652-defuse-the-bomb](https://github.com/Varshithakuna/leetcode/tree/master/1652-defuse-the-bomb) |
 | [1656-count-good-triplets](https://github.com/Varshithakuna/leetcode/tree/master/1656-count-good-triplets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Varshithakuna/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/Varshithakuna/leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -518,4 +519,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Varshithakuna/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1652-defuse-the-bomb](https://github.com/Varshithakuna/leetcode/tree/master/1652-defuse-the-bomb) |
 <!---LeetCode Topics End-->
