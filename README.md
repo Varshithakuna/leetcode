@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/Varshithakuna/leetcode/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/Varshithakuna/leetcode/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Varshithakuna/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Varshithakuna/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/Varshithakuna/leetcode/tree/master/1044-find-common-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Varshithakuna/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/Varshithakuna/leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/Varshithakuna/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/Varshithakuna/leetcode/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/Varshithakuna/leetcode/tree/master/0890-lemonade-change) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Varshithakuna/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Varshithakuna/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Varshithakuna/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1044-find-common-characters](https://github.com/Varshithakuna/leetcode/tree/master/1044-find-common-characters) |
