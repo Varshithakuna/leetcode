@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Varshithakuna/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Varshithakuna/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1547-destination-city](https://github.com/Varshithakuna/leetcode/tree/master/1547-destination-city) |
+| [1572-matrix-diagonal-sum](https://github.com/Varshithakuna/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1651-shuffle-string](https://github.com/Varshithakuna/leetcode/tree/master/1651-shuffle-string) |
 | [1652-defuse-the-bomb](https://github.com/Varshithakuna/leetcode/tree/master/1652-defuse-the-bomb) |
 | [1656-count-good-triplets](https://github.com/Varshithakuna/leetcode/tree/master/1656-count-good-triplets) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Varshithakuna/leetcode/tree/master/0861-flipping-an-image) |
+| [1572-matrix-diagonal-sum](https://github.com/Varshithakuna/leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Brainteaser
 |  |
 | ------- |
