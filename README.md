@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Varshithakuna/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Varshithakuna/leetcode/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/Varshithakuna/leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Varshithakuna/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Varshithakuna/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Varshithakuna/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Varshithakuna/leetcode/tree/master/0078-subsets) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Varshithakuna/leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Varshithakuna/leetcode/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/Varshithakuna/leetcode/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Varshithakuna/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0728-self-dividing-numbers](https://github.com/Varshithakuna/leetcode/tree/master/0728-self-dividing-numbers) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Varshithakuna/leetcode/tree/master/0048-rotate-image) |
 | [0861-flipping-an-image](https://github.com/Varshithakuna/leetcode/tree/master/0861-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/Varshithakuna/leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Brainteaser
