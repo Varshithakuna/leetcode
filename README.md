@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/Varshithakuna/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Varshithakuna/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2881-split-strings-by-separator](https://github.com/Varshithakuna/leetcode/tree/master/2881-split-strings-by-separator) |
+| [2974-minimum-number-game](https://github.com/Varshithakuna/leetcode/tree/master/2974-minimum-number-game) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Varshithakuna/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/Varshithakuna/leetcode/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Varshithakuna/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Varshithakuna/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Varshithakuna/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/Varshithakuna/leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [2974-minimum-number-game](https://github.com/Varshithakuna/leetcode/tree/master/2974-minimum-number-game) |
 | [3731-find-missing-elements](https://github.com/Varshithakuna/leetcode/tree/master/3731-find-missing-elements) |
 | [3778-transform-array-by-parity](https://github.com/Varshithakuna/leetcode/tree/master/3778-transform-array-by-parity) |
 | [3859-maximum-product-of-two-digits](https://github.com/Varshithakuna/leetcode/tree/master/3859-maximum-product-of-two-digits) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Varshithakuna/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2470-removing-stars-from-a-string](https://github.com/Varshithakuna/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Varshithakuna/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2974-minimum-number-game](https://github.com/Varshithakuna/leetcode/tree/master/2974-minimum-number-game) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Varshithakuna/leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Varshithakuna/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Varshithakuna/leetcode/tree/master/3701-compute-alternating-sum) |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Varshithakuna/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [2974-minimum-number-game](https://github.com/Varshithakuna/leetcode/tree/master/2974-minimum-number-game) |
 ## Quickselect
 |  |
 | ------- |
