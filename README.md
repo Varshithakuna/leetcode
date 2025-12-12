@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/Varshithakuna/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Varshithakuna/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/Varshithakuna/leetcode/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Varshithakuna/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3778-transform-array-by-parity](https://github.com/Varshithakuna/leetcode/tree/master/3778-transform-array-by-parity) |
 | [3790-fruits-into-baskets-ii](https://github.com/Varshithakuna/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [4008-restore-finishing-order](https://github.com/Varshithakuna/leetcode/tree/master/4008-restore-finishing-order) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/Varshithakuna/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Varshithakuna/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Varshithakuna/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Varshithakuna/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Varshithakuna/leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Varshithakuna/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/Varshithakuna/leetcode/tree/master/3859-maximum-product-of-two-digits) |
