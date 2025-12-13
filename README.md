@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Varshithakuna/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Varshithakuna/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Varshithakuna/leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/Varshithakuna/leetcode/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Varshithakuna/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Varshithakuna/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Varshithakuna/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Varshithakuna/leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/Varshithakuna/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Varshithakuna/leetcode/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Varshithakuna/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Varshithakuna/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
