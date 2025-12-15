@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-find-common-elements-between-two-arrays](https://github.com/Varshithakuna/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Varshithakuna/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Varshithakuna/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Varshithakuna/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Varshithakuna/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Varshithakuna/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Varshithakuna/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-sum-of-variable-length-subarrays](https://github.com/Varshithakuna/leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Varshithakuna/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Varshithakuna/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Varshithakuna/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Varshithakuna/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Varshithakuna/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Varshithakuna/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
