@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Varshithakuna/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/Varshithakuna/leetcode/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Varshithakuna/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/Varshithakuna/leetcode/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3778-transform-array-by-parity](https://github.com/Varshithakuna/leetcode/tree/master/3778-transform-array-by-parity) |
 | [3790-fruits-into-baskets-ii](https://github.com/Varshithakuna/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [4008-restore-finishing-order](https://github.com/Varshithakuna/leetcode/tree/master/4008-restore-finishing-order) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/Varshithakuna/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2974-minimum-number-game](https://github.com/Varshithakuna/leetcode/tree/master/2974-minimum-number-game) |
 | [3731-find-missing-elements](https://github.com/Varshithakuna/leetcode/tree/master/3731-find-missing-elements) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/Varshithakuna/leetcode/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3778-transform-array-by-parity](https://github.com/Varshithakuna/leetcode/tree/master/3778-transform-array-by-parity) |
 | [3859-maximum-product-of-two-digits](https://github.com/Varshithakuna/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Prefix Sum
