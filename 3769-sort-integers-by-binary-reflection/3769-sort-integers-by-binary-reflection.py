@@ -8,11 +8,7 @@ class Solution:
             h=''.join(h)
             n=int(h,2)
             m.append([i,n])
-        print(m)
         r=sorted(m,key=lambda x:x[1])
-        print(r)
-        if len(r)==1:
-            return [r[0][0]]
         n={}
         for i in r:
             if i[1] not in n:
