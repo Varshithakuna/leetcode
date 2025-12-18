@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/Varshithakuna/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/Varshithakuna/leetcode/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/Varshithakuna/leetcode/tree/master/0890-lemonade-change) |
+| [0922-sort-array-by-parity-ii](https://github.com/Varshithakuna/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Varshithakuna/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Varshithakuna/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Varshithakuna/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Varshithakuna/leetcode/tree/master/0392-is-subsequence) |
 | [0841-shortest-distance-to-a-character](https://github.com/Varshithakuna/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/Varshithakuna/leetcode/tree/master/0861-flipping-an-image) |
+| [0922-sort-array-by-parity-ii](https://github.com/Varshithakuna/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0953-reverse-only-letters](https://github.com/Varshithakuna/leetcode/tree/master/0953-reverse-only-letters) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Varshithakuna/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1894-merge-strings-alternately](https://github.com/Varshithakuna/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Varshithakuna/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0561-array-partition](https://github.com/Varshithakuna/leetcode/tree/master/0561-array-partition) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Varshithakuna/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0922-sort-array-by-parity-ii](https://github.com/Varshithakuna/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Varshithakuna/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Varshithakuna/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Varshithakuna/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
