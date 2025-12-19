@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Varshithakuna/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Varshithakuna/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Varshithakuna/leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Varshithakuna/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Varshithakuna/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2502-sort-the-people](https://github.com/Varshithakuna/leetcode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Varshithakuna/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Varshithakuna/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Varshithakuna/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Varshithakuna/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Varshithakuna/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2502-sort-the-people](https://github.com/Varshithakuna/leetcode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Varshithakuna/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Varshithakuna/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Varshithakuna/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Varshithakuna/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1833-find-the-highest-altitude](https://github.com/Varshithakuna/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Varshithakuna/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/Varshithakuna/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Varshithakuna/leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Varshithakuna/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Varshithakuna/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Varshithakuna/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Varshithakuna/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Varshithakuna/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Varshithakuna/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Varshithakuna/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Varshithakuna/leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -521,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Varshithakuna/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Varshithakuna/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Varshithakuna/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Varshithakuna/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3790-fruits-into-baskets-ii](https://github.com/Varshithakuna/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
