@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/Varshithakuna/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Varshithakuna/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2881-split-strings-by-separator](https://github.com/Varshithakuna/leetcode/tree/master/2881-split-strings-by-separator) |
+| [2917-find-the-k-or-of-an-array](https://github.com/Varshithakuna/leetcode/tree/master/2917-find-the-k-or-of-an-array) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Varshithakuna/leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2974-minimum-number-game](https://github.com/Varshithakuna/leetcode/tree/master/2974-minimum-number-game) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Varshithakuna/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Varshithakuna/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Varshithakuna/leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Varshithakuna/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2917-find-the-k-or-of-an-array](https://github.com/Varshithakuna/leetcode/tree/master/2917-find-the-k-or-of-an-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Varshithakuna/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Varshithakuna/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Varshithakuna/leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
