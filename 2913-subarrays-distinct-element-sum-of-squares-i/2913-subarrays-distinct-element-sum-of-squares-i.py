@@ -14,9 +14,7 @@ class Solution:
                 d[len(s)]=1
             else:
                 d[len(s)]+=1
-        print(d)
         d=sorted(d.items())
-        print(d)
         for i in d:
             c=c+i[1]*(i[0]*i[0])
         return c
