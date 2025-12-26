@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Varshithakuna/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Varshithakuna/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1970-sorting-the-sentence](https://github.com/Varshithakuna/leetcode/tree/master/1970-sorting-the-sentence) |
+| [2000-reverse-prefix-of-word](https://github.com/Varshithakuna/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2032-largest-odd-number-in-string](https://github.com/Varshithakuna/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Varshithakuna/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Varshithakuna/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Varshithakuna/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Varshithakuna/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Varshithakuna/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2000-reverse-prefix-of-word](https://github.com/Varshithakuna/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Varshithakuna/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Varshithakuna/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Varshithakuna/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Varshithakuna/leetcode/tree/master/0682-baseball-game) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Varshithakuna/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Varshithakuna/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2000-reverse-prefix-of-word](https://github.com/Varshithakuna/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/Varshithakuna/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Varshithakuna/leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Monotonic Stack
