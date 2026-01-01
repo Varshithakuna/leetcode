@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Varshithakuna/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Varshithakuna/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Varshithakuna/leetcode/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/Varshithakuna/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Varshithakuna/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Varshithakuna/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Varshithakuna/leetcode/tree/master/0136-single-number) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Varshithakuna/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Varshithakuna/leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Varshithakuna/leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Varshithakuna/leetcode/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Varshithakuna/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0728-self-dividing-numbers](https://github.com/Varshithakuna/leetcode/tree/master/0728-self-dividing-numbers) |
