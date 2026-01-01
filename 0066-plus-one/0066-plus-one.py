@@ -15,5 +15,4 @@ class Solution:
             s[i]=int(s[i])
             v.append(s[i])
         return v
-      
         
