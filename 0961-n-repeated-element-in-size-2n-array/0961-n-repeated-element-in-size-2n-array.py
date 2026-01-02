@@ -4,3 +4,4 @@ class Solution:
             if (2*nums.count(i)==len(nums)):
                 return i
         
+        
