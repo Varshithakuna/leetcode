@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-capitalize-the-title](https://github.com/Varshithakuna/leetcode/tree/master/2235-capitalize-the-title) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Varshithakuna/leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Varshithakuna/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Varshithakuna/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Varshithakuna/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Varshithakuna/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Varshithakuna/leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/Varshithakuna/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Varshithakuna/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Varshithakuna/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Varshithakuna/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2481-strictly-palindromic-number](https://github.com/Varshithakuna/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Varshithakuna/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Varshithakuna/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Varshithakuna/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1652-defuse-the-bomb](https://github.com/Varshithakuna/leetcode/tree/master/1652-defuse-the-bomb) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Varshithakuna/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Number Theory
 |  |
 | ------- |
