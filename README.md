@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Varshithakuna/leetcode/tree/master/0496-next-greater-element-i) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Varshithakuna/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Varshithakuna/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0645-set-mismatch](https://github.com/Varshithakuna/leetcode/tree/master/0645-set-mismatch) |
 | [0749-shortest-completing-word](https://github.com/Varshithakuna/leetcode/tree/master/0749-shortest-completing-word) |
 | [0822-unique-morse-code-words](https://github.com/Varshithakuna/leetcode/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/Varshithakuna/leetcode/tree/master/0837-most-common-word) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Varshithakuna/leetcode/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/Varshithakuna/leetcode/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Varshithakuna/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0645-set-mismatch](https://github.com/Varshithakuna/leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Varshithakuna/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Varshithakuna/leetcode/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Varshithakuna/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Varshithakuna/leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Varshithakuna/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0561-array-partition](https://github.com/Varshithakuna/leetcode/tree/master/0561-array-partition) |
+| [0645-set-mismatch](https://github.com/Varshithakuna/leetcode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Varshithakuna/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0922-sort-array-by-parity-ii](https://github.com/Varshithakuna/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Varshithakuna/leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Varshithakuna/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Varshithakuna/leetcode/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Varshithakuna/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0645-set-mismatch](https://github.com/Varshithakuna/leetcode/tree/master/0645-set-mismatch) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Varshithakuna/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/Varshithakuna/leetcode/tree/master/0861-flipping-an-image) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Varshithakuna/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
