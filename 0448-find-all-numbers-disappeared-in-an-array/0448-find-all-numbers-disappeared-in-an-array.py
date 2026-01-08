@@ -12,7 +12,7 @@ class Solution:
         #     k.append(i)
         fin =[]
         n = len(nums)
-        nums=set(nums)
+        nums = set(nums)
         for i in range(1,n+1):
             if i not in nums:
                 fin.append(i)
