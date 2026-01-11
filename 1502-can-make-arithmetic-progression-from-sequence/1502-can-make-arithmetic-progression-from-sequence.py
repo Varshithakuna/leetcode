@@ -1,13 +1,9 @@
 class Solution:
     def canMakeArithmeticProgression(self, arr: List[int]) -> bool:
         arr=sorted(arr)
-        ans=[]
+        ans=arr[1]-arr[0]
         for i in range(1,len(arr)):
-            if len(ans)==0:
-                ans.append(abs(arr[i-1]-arr[i]))
-            elif (abs(arr[i-1]-arr[i])) in ans:
-                continue
-            else:
+            if (arr[i]-arr[i-1])!=ans:
                 return False
         return True
 
