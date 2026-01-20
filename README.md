@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Varshithakuna/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1547-destination-city](https://github.com/Varshithakuna/leetcode/tree/master/1547-destination-city) |
 | [1572-matrix-diagonal-sum](https://github.com/Varshithakuna/leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/Varshithakuna/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1651-shuffle-string](https://github.com/Varshithakuna/leetcode/tree/master/1651-shuffle-string) |
 | [1652-defuse-the-bomb](https://github.com/Varshithakuna/leetcode/tree/master/1652-defuse-the-bomb) |
 | [1656-count-good-triplets](https://github.com/Varshithakuna/leetcode/tree/master/1656-count-good-triplets) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Varshithakuna/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Varshithakuna/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Varshithakuna/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/Varshithakuna/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Varshithakuna/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-arithmetic-subarrays](https://github.com/Varshithakuna/leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1970-sorting-the-sentence](https://github.com/Varshithakuna/leetcode/tree/master/1970-sorting-the-sentence) |
