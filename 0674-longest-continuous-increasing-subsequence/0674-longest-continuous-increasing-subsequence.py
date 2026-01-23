@@ -11,8 +11,6 @@ class Solution:
                     ans=[]
                     ans.append(nums[i])
         left.append(len(ans))
-        print(ans)
-        print(left)
         return max(left)
 
 
